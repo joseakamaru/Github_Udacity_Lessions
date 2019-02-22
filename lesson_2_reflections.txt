@@ -9,6 +9,8 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  By utilizing the status and diff function to ensure which files are being edited and what part of the files
+  have been altered. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
