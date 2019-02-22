@@ -1,9 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
   Git generates a .git file which keeps track of all changes made in the folder. It is important to initialize
-  so Git is able to start keep track of changes. 
+  so Git is able to start keep track of changes. Very powerful tool
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+  It allows for an intermarry step before finalizing any changes to a commit. It also
+  allows for specific working files that have been edit to be group together for easy tracking.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
