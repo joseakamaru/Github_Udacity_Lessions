@@ -15,12 +15,12 @@ use one instead of another?
     developer of a files it was clone from. Clone is able to copy files from GitHub onto your repository
     online or on your local computer, but any changes made only displays you as the main author. Branches,
     only works on your local computer and enable to editing of files while maintaining the master branch
-    untouched. 
+    untouched.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    You are able to avoid conflecting commits from other collaborators which could mess up your program. 
+    You are able to avoid conflicting commits from other collaborators which could mess up your program.
     are able to work on your one specific objective and experiment without hurting other collaborators progress. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
