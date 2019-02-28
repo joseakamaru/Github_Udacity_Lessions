@@ -29,9 +29,11 @@ and what would be harder?
     I would either changes the changes for a specific line to my collaborators or email the change file to them.
     It would easier to just open the file and see the changes without having to worry about making a mistake
     using git or GitHub, but it would be significantly harder to work on large projects with multiple
-    collaborators 
+    collaborators
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When working within a group on a specific project so a project manager is able to monitor changes.
+    When working by yourself and your changes are progress on a project then working on the master branch
+    is ideal unless its an experimental concept. 
